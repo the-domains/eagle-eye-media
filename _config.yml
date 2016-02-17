@@ -1,0 +1,28 @@
+name: Eagle Eye Media
+favicon: null
+layout_spectrum: 0.6890947774518281
+typography_spectrum: 0.875698832096532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6142114643007517
+  lightness: 0.46186852385289967
+  saturation: 0.8904493909794837
+  rhythmicContrast: 0.1735138923395425
+purpose: []
